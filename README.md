@@ -6,7 +6,7 @@ It has a super basic config file (versioner.json) that lives in your project roo
 
 ### Installation
 
-Versioner can be installed via Go using `go install github.com/BetterKICK/versioner@latest`
+Versioner can be installed via Go using `go install github.com/AeroKick/versioner@latest`
 
 ### Configuration
 
