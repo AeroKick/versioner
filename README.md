@@ -10,9 +10,8 @@ Versioner can be installed via Go using `go install github.com/BetterKICK/versio
 
 ### Configuration
 
-Configuring versioner is quite simple, here is what a basic config may look like:
-```json
-//versioner.json
+Configuring versioner is quite simple, here is what a basic `versioner.json` file may look like:
+```json versioner.json
 [
   {"file": "package.json", "field": "version"},
   {"file": "manifest.json", "field": "versionNumber"},
