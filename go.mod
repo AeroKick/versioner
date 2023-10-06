@@ -1,4 +1,4 @@
-module github.com/BetterKICK/versioner
+module github.com/AeroKick/versioner
 
 go 1.21.0
 
